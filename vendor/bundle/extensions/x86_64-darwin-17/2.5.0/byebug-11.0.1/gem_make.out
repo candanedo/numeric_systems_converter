@@ -1,0 +1,19 @@
+current directory: /Users/eduardojaviercandanedocontreras/Development/RoRProjects/numeric_system_comverter/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+/Users/eduardojaviercandanedocontreras/.rvm/rubies/ruby-2.5.1/bin/ruby -r ./siteconf20190601-28573-1kdzuoe.rb extconf.rb
+creating Makefile
+
+current directory: /Users/eduardojaviercandanedocontreras/Development/RoRProjects/numeric_system_comverter/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/eduardojaviercandanedocontreras/Development/RoRProjects/numeric_system_comverter/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/eduardojaviercandanedocontreras/Development/RoRProjects/numeric_system_comverter/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 byebug.bundle ./.gem.20190601-28573-14pebg6/byebug

@@ -1,0 +1,7 @@
+<%= simple_form_for @number do |form| %>
+  <%= form.input :decimal %>
+  <%= form.input :binary %>
+  <%= form.input :octal %>
+  <%= form.input :hexadecimal %>
+  <%= form.submit 'Convertir', class: 'btn btn-primary'%>
+<% end %>
